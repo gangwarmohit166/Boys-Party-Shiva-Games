@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Boys Party – Shiva Games",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Boys Party",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "boys-party-shiva-games",
+  "description": "Play fun games with Boys Party – Shiva Games. Guess the Number and more exciting games coming soon!"
+}
